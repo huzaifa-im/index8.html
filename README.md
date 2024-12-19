@@ -39,6 +39,7 @@
               <li class="nav-item">
                 <a class="nav-link disabled" href="#" tabindex="-1" aria-disabled="true"></a>
               </li>
+                <img src="pic.jpg" alt="">
             </ul>
             <form class="d-flex">
               <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search" style="border-radius: 30px;">
@@ -47,6 +48,9 @@
           </div>
         </div>
       </nav>
+      <div clas= huzaifa>
+          
+      </div>
     
 </body>
 </html>
